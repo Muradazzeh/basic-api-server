@@ -1,4 +1,11 @@
 # basic-api-server
+## links for my work 
+* this is the pull request link [pull request](https://github.com/Muradazzeh/basic-api-server/pull/1)
+* this is the link for action page from git hub [action page](https://github.com/Muradazzeh/basic-api-server/actions)
+* this is the link for heroku web site [ herokulink](https://basic-api-server-main.herokuapp.com/)
+* this is the link for main repo [ repo link ](https://github.com/Muradazzeh/basic-api-server)
+
+
 * first we discussed what is the data base : it is set of organized collection of data that connected together , and stored in table .
 * we know that there is tow type of data base , relational DB , and non relational DB 
 * SQL : stand for structured query language it is relational  data base 
@@ -42,3 +49,10 @@ see the out put
 > note that I did test for both routes  so I got alomst 14 test as shown :
 ![link](./src/image/Screenshot%20(190).png)
 ![link](./src/image/Screenshot%20(193).png)
+
+* this is the action page from git hub thats show every things is ok 
+![link](./src/image/Screenshot%20(194).png)
+
+* and finally some data from heroku web site that is posted 
+![link](./src/image/Screenshot%20(196).png)
+

@@ -13,7 +13,7 @@ CarRouter.put("/Car/:id", updateCar);
 CarRouter.delete("/Car/:id", deleteCar);
 
  function Home (req,res){
-    res.status(200).send("This is the home page , you can find magical things happens here if you chang the routs to /Car , you will find different type of cars you can do some modefication on them")
+    res.status(200).send("This is the home page , you can find magical things happens here if you chang the routs to /Car, you will find different type of cars you can do some modefication on them also you can find the super hero route you can check you favorite hero")
 }
 
 async function getCars (req,res){
